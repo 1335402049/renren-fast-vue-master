@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 41966
+Build-Jdk: 9.0.4
+Implementation-Title: renren-fast
+Implementation-Version: 3.0.0
+Implementation-Vendor-Id: io.renren
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/renren-fast
+Created-By: Maven Integration for Eclipse
+
